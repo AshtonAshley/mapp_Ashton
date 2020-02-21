@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAPP_Ashton</string>
+    <string name="button_main">Send</string>
+    <string name="text_header">Message Received</string>\
+    <string name="editText_main">Enter your message</string>
+    <string name="text_header_reply">reply from 2nd</string>
+</resources>
